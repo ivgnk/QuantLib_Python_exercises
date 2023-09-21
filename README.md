@@ -16,7 +16,8 @@ https://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html
 
 - - -
 #### Video
-[The QuantLib notebooks / Luigi Ballabio](https://www.youtube.com/watch?v=__PBUqjCy6E&list=PLu_PrO8j6XAvOAlZND9WUPwTHY_GYhJVr) - 18 Parts            
+[**Luigi Ballabio**](https://www.youtube.com/@lballabio)
+[**The QuantLib notebooks / Luigi Ballabio**](https://www.youtube.com/watch?v=__PBUqjCy6E&list=PLu_PrO8j6XAvOAlZND9WUPwTHY_GYhJVr) - 18 Parts            
 [Introduction to QuantLib](https://www.youtube.com/playlist?list=PLqNU0gSTIyQ7tC18kcrNUHal6qFIPewS6) - 10 Parts        
 - - -
 [stackexchange: Quantitative Finance](https://quant.stackexchange.com)                
